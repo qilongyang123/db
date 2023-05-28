@@ -1,0 +1,11 @@
+ Repeated number statistics of SSR of different types in B. horsfieldi,,,,,,,,,,
+Repeat type,Number of repeats,,,,,,,,Total,Ratio
+,5,6,7,8,9,10,11,−12,,
+Mononucleotide,！,！,！,！,！,66485,18495,19528,104508,85.84
+Dinucleotide,！,3313,1664,1047,701,381,235,2499,9840,8.08
+Trinucleotide,3764,1287,470,229,97,58,29,202,6136,5.04
+Tetranucleotide,622,156,55,21,8,3,8,11,884,0.73
+Pentanucleotide,116,35,11,16,10,8,11,31,238,0.2
+Hexanucleotide,23,14,11,17,16,63,0,0,144,0.12
+Total,4525,4805,2211,1330,832,66998,18778,22271,121750,100
+Ratio,3.72,3.95,1.82,1.09,0.68,55.03,15.42,18.29,100,！

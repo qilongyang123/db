@@ -1,0 +1,21 @@
+Treatment time,Experimental groups,Tissue,Enzyme activity,Standard error, Multiple comparisons
+1d,Control group,lymph,0.481,0.00481,Bb
+3d,Control group,lymph,0.509,0.00509,Bb
+5d,Control group,lymph,0.485,0.00485,Ba
+7d,Control group,lymph,0.505,0.00505,Bb
+9d,Control group,lymph,0.498,0.00498,Ab
+1d,Treatment group,lymph,0.732,0.00732,Ac
+3d,Treatment group,lymph,0.823,0.00823,Ab
+5d,Treatment group,lymph,1.272,0.01272,Aa
+7d,Treatment group,lymph,0.651,0.00651,Ad
+9d,Treatment group,lymph,0.423,0.00423,Be
+1d,Control group,midgut,0.501,0.00501,Ba
+3d,Control group,midgut,0.513,0.00513,Ba
+5d,Control group,midgut,0.505,0.00505,Aa
+7d,Control group,midgut,0.501,0.00501,Ba
+9d,Control group,midgut,0.495,0.00495,Ba
+1d,Treatment group,midgut,0.799,0.00799,Ab
+3d,Treatment group,midgut,1.132,0.01132,Aa
+5d,Treatment group,midgut,0.456,0.00456,Be
+7d,Treatment group,midgut,0.525,0.00525,Ad
+9d,Treatment group,midgut,0.552,0.00552,Ac

@@ -1,5 +1,20 @@
-Repeat type,Percentage in total SSR,Number of sequences
-Mononucleotide,85.84%,104508
-Dinucleotide,8.08%,9840
-Trinucleotide,5.04%,6136
-"Tetra-,penta- and hexa-",1.05%,1266
+Repeat type,Repeat motifs type of  SSR,Number of sequences,,,
+Mononucleotide,A/T,102157,,,
+Mononucleotide,C/G,2351,,,
+Dinucleotide,AT/AT,2607,,,
+Dinucleotide,GA/TC,1537,,,
+Dinucleotide,AG/CT,1325,,,
+Dinucleotide,AC/GT,914,,,
+Dinucleotide,CA/TG,894,,,
+Dinucleotide,GC/GC,40,,,
+Dinucleotide,CG/CG,22,,,
+Trinucleotide,AAT/ATT,1459,,,
+Trinucleotide,TAA/TTA,1057,,,
+Trinucleotide,ATA/TAT,1031,,,
+Trinucleotide,CCG/CGG,270,,,
+Trinucleotide,GCC/GGC,231,,,
+Trinucleotide,CGC/GCG,201,,,
+Trinucleotide,ACG/CGT,166,,,
+Trinucleotide,CGA/TCG,155,,,
+Trinucleotide,Others,1566,,,
+"Tetra-,penta- and hexa-",TA/TA,2501,,,
